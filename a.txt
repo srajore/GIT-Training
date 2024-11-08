@@ -1,3 +1,1 @@
 This is a.txt file
-
-I am adding another file
